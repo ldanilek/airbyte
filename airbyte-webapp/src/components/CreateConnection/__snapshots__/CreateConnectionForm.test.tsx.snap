@@ -104,7 +104,7 @@ exports[`CreateConnectionForm should render 1`] = `
                 style="pointer-events: auto;"
               >
                 <div
-                  class="sc-cOFTSb bBiOrV react-select-container css-b62m3t-container"
+                  class="sc-bBXxYQ fXDXjG react-select-container css-b62m3t-container"
                   data-testid="scheduleData"
                   role="combobox"
                 >
@@ -125,10 +125,10 @@ exports[`CreateConnectionForm should render 1`] = `
                       class="react-select__value-container react-select__value-container--has-value css-dlobye-Component"
                     >
                       <div
-                        class="sc-cTQhss haoKjh"
+                        class="sc-efBctP ePoHRh"
                       >
                         <div
-                          class="sc-iAvgwm fQiUpU"
+                          class="sc-iTONeN gQxSFc"
                         >
                           <div
                             class="react-select__single-value css-qc6sy-singleValue"
@@ -159,7 +159,7 @@ exports[`CreateConnectionForm should render 1`] = `
                       >
                         <svg
                           aria-hidden="true"
-                          class="svg-inline--fa fa-sort-down sc-dPyBCJ eGVczJ"
+                          class="svg-inline--fa fa-sort-down sc-jOrMOR jXccHI"
                           data-icon="sort-down"
                           data-prefix="fas"
                           focusable="false"
@@ -227,7 +227,7 @@ exports[`CreateConnectionForm should render 1`] = `
                   class="rightFieldCol"
                 >
                   <div
-                    class="sc-cOFTSb bBiOrV react-select-container css-b62m3t-container"
+                    class="sc-bBXxYQ fXDXjG react-select-container css-b62m3t-container"
                     data-testid="namespaceDefinition"
                     role="combobox"
                   >
@@ -248,10 +248,10 @@ exports[`CreateConnectionForm should render 1`] = `
                         class="react-select__value-container react-select__value-container--has-value css-dlobye-Component"
                       >
                         <div
-                          class="sc-cTQhss haoKjh"
+                          class="sc-efBctP ePoHRh"
                         >
                           <div
-                            class="sc-iAvgwm fQiUpU"
+                            class="sc-iTONeN gQxSFc"
                           >
                             <div
                               class="react-select__single-value css-qc6sy-singleValue"
@@ -282,7 +282,7 @@ exports[`CreateConnectionForm should render 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            class="svg-inline--fa fa-sort-down sc-dPyBCJ eGVczJ"
+                            class="svg-inline--fa fa-sort-down sc-jOrMOR jXccHI"
                             data-icon="sort-down"
                             data-prefix="fas"
                             focusable="false"
@@ -362,7 +362,7 @@ exports[`CreateConnectionForm should render 1`] = `
               class="loadingBackdropContainer"
             >
               <div
-                class="sc-bUbCnL keYsWp"
+                class="sc-eKBdFk fYrMzk"
               >
                 <h5
                   class="sc-bczRLJ sc-dkzDqf UeZWt ebWyjL"
@@ -396,14 +396,14 @@ exports[`CreateConnectionForm should render 1`] = `
                 </button>
               </div>
               <div
-                class="sc-ZyCDH gpzrdJ"
+                class="sc-jIAOiI bHwQaU"
               >
                 <div
                   class="container"
                   data-testid="input-container"
                 >
                   <input
-                    class="input sc-jIAOiI bxGgcg"
+                    class="input sc-TRNrF fQblPB"
                     data-testid="input"
                     placeholder="Search stream name"
                   />
@@ -583,39 +583,39 @@ exports[`CreateConnectionForm should render 1`] = `
                 class="sc-ksZaOG sc-hAZoDl fmKtaK jIJKIB catalogSubheader"
               >
                 <div
-                  class="sc-fnykZs sc-hlnMnd VApCG ezaSgM"
+                  class="sc-fnykZs sc-jOhDuK VApCG bcCzGu"
                 >
                   Namespace
                 </div>
                 <div
-                  class="sc-fnykZs sc-hlnMnd VApCG ezaSgM"
+                  class="sc-fnykZs sc-jOhDuK VApCG bcCzGu"
                 >
                   Stream name
                 </div>
                 <div
-                  class="sc-fnykZs sc-hlnMnd ciVNhF ezaSgM"
+                  class="sc-fnykZs sc-jOhDuK ciVNhF bcCzGu"
                 >
                   Source | Destination
                 </div>
                 <div
-                  class="sc-fnykZs sc-hlnMnd sc-eKBdFk VApCG ezaSgM iBiQnB"
+                  class="sc-fnykZs sc-jOhDuK sc-hlnMnd VApCG bcCzGu eSonfJ"
                 />
                 <div
-                  class="sc-fnykZs sc-hlnMnd sc-eKBdFk VApCG ezaSgM iBiQnB"
+                  class="sc-fnykZs sc-jOhDuK sc-hlnMnd VApCG bcCzGu eSonfJ"
                 />
                 <div
-                  class="sc-fnykZs sc-hlnMnd VApCG ezaSgM"
+                  class="sc-fnykZs sc-jOhDuK VApCG bcCzGu"
                 >
                   Namespace
                 </div>
                 <div
-                  class="sc-fnykZs sc-hlnMnd VApCG ezaSgM"
+                  class="sc-fnykZs sc-jOhDuK VApCG bcCzGu"
                 >
                   Stream name
                 </div>
               </div>
               <div
-                class="sc-jOhDuK iHjNjo"
+                class="sc-ZyCDH Efikb"
               >
                 <div
                   class="catalogSection"
@@ -636,14 +636,14 @@ exports[`CreateConnectionForm should render 1`] = `
                       </label>
                     </div>
                     <div
-                      class="sc-fnykZs sc-jgbSNz sc-lbxAil imOUQR dkANJX bHBjjw"
+                      class="sc-fnykZs sc-hTtwUo sc-gSAPjG imOUQR hlrAFK kRpzmG"
                     >
                       <span
-                        class="sc-hiMGwR kmDbQS"
+                        class="sc-olbas curJEX"
                       >
                         <svg
                           aria-hidden="true"
-                          class="svg-inline--fa fa-chevron-right sc-ehmTmK eOIlNv"
+                          class="svg-inline--fa fa-chevron-right sc-hiMGwR bbPiZr"
                           data-icon="chevron-right"
                           data-prefix="fas"
                           focusable="false"
@@ -662,7 +662,7 @@ exports[`CreateConnectionForm should render 1`] = `
                       class="streamHeaderContent"
                     >
                       <div
-                        class="sc-fnykZs sc-jgbSNz hgpwyO dkANJX"
+                        class="sc-fnykZs sc-hTtwUo hgpwyO hlrAFK"
                       >
                         <label
                           class="switch small"
@@ -679,17 +679,17 @@ exports[`CreateConnectionForm should render 1`] = `
                         </label>
                       </div>
                       <div
-                        class="sc-fnykZs sc-jgbSNz kjjuyS dkANJX"
+                        class="sc-fnykZs sc-hTtwUo kjjuyS hlrAFK"
                         title=""
                       >
                         <span
-                          class="sc-fXynhf sAcSt"
+                          class="sc-GVOUr cbecpX"
                         >
                           No namespace
                         </span>
                       </div>
                       <div
-                        class="sc-fnykZs sc-jgbSNz kjjuyS dkANJX"
+                        class="sc-fnykZs sc-hTtwUo kjjuyS hlrAFK"
                         title="pokemon"
                       >
                         pokemon
@@ -698,7 +698,7 @@ exports[`CreateConnectionForm should render 1`] = `
                         class="sc-fnykZs bKHgDK"
                       >
                         <div
-                          class="sc-cOFTSb jqsVWu react-select-container css-b62m3t-container"
+                          class="sc-bBXxYQ jxPzed react-select-container css-b62m3t-container"
                           data-testid="syncSettingsDropdown"
                           role="combobox"
                         >
@@ -713,22 +713,22 @@ exports[`CreateConnectionForm should render 1`] = `
                             class="css-1f43avz-a11yText-A11yText"
                           />
                           <div
-                            class="sc-GVOUr ldWtuj react-select__control css-1s2u09g-control"
+                            class="sc-fbPSWO gFtfht react-select__control css-1s2u09g-control"
                           >
                             <div
                               class="react-select__value-container react-select__value-container--has-value css-dlobye-Component"
                             >
                               <div
-                                class="sc-iAvgwm fQiUpU"
+                                class="sc-iTONeN gQxSFc"
                               >
                                 <div
-                                  class="sc-lbOyJj cHLvYg react-select__single-value css-qc6sy-singleValue"
+                                  class="sc-ehmTmK eCSYly react-select__single-value css-qc6sy-singleValue"
                                 >
                                   <div>
                                     Full refresh
                                   </div>
                                   <div
-                                    class="sc-gFGZVQ ijSWZb"
+                                    class="sc-lbOyJj ezzobk"
                                   >
                                     |
                                   </div>
@@ -759,7 +759,7 @@ exports[`CreateConnectionForm should render 1`] = `
                               >
                                 <svg
                                   aria-hidden="true"
-                                  class="svg-inline--fa fa-sort-down sc-dPyBCJ eGVczJ"
+                                  class="svg-inline--fa fa-sort-down sc-jOrMOR jXccHI"
                                   data-icon="sort-down"
                                   data-prefix="fas"
                                   focusable="false"
@@ -778,19 +778,19 @@ exports[`CreateConnectionForm should render 1`] = `
                         </div>
                       </div>
                       <div
-                        class="sc-fnykZs sc-jgbSNz imOUQR dkANJX"
+                        class="sc-fnykZs sc-hTtwUo imOUQR hlrAFK"
                       />
                       <div
-                        class="sc-fnykZs sc-jgbSNz kjjuyS dkANJX"
+                        class="sc-fnykZs sc-hTtwUo kjjuyS hlrAFK"
                       />
                       <div
-                        class="sc-fnykZs sc-jgbSNz kjjuyS dkANJX"
+                        class="sc-fnykZs sc-hTtwUo kjjuyS hlrAFK"
                         title="'<source schema>"
                       >
                         '&lt;source schema&gt;
                       </div>
                       <div
-                        class="sc-fnykZs sc-jgbSNz kjjuyS dkANJX"
+                        class="sc-fnykZs sc-hTtwUo kjjuyS hlrAFK"
                         title="pokemon"
                       >
                         pokemon
@@ -818,7 +818,7 @@ exports[`CreateConnectionForm should render 1`] = `
               Normalization & Transformation
             </h5>
             <div
-              class="sc-iTONeN jVBGIe"
+              class="normalizationField"
             >
               <div
                 class="sc-papXJ jBZEjH"
