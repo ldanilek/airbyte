@@ -8,7 +8,7 @@ import { useConfig } from "config";
 import { NormalizationType } from "core/domain/connection/operation";
 import { useConnectionFormService } from "hooks/services/ConnectionForm/ConnectionFormService";
 
-import styles from "./NormalizationField.module.css";
+import styles from "./NormalizationField.module.scss";
 
 type NormalizationBlockProps = FieldProps<string>;
 
